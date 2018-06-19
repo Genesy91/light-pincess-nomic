@@ -8,6 +8,9 @@
 - Andrea
 - Du
 
+## Regolamento corrente
+[REGOLAMENTO](./Regolamento)
+
 ## Regole iniziali
 
 1. Nessuna regola può essere aggiunta se in contraddizione con altre regole già valide.
