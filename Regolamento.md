@@ -11,3 +11,5 @@
 5. Se più della metà dei giocatori approva la mozione, la regola viene aggiunta con un nuovo numero al regolamento, oppure con il medesimo numero se è stata modificata, oppure eliminata (a seconda del tipo di mozione).
 
 6. Il vincitore è il giocatore che vende la principessa.
+
+7.  La principessa non può essere venduta prima dell'inizio del quinto giro.
