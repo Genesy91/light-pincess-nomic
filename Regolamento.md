@@ -1,14 +1,4 @@
-# Light Pincess Nomic
-
-## Giocatori
-
-- Io
-- Ema
-- Luca
-- Andrea
-- Du
-
-## Regole iniziali
+# Regolamento
 
 1. Nessuna regola può essere aggiunta se in contraddizione con altre regole già valide.
 
