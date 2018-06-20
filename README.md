@@ -2,11 +2,11 @@
 
 ## Giocatori
 
-- Io
-- Ema
-- Luca
 - Andrea
+- Davide
 - Du
+- Emanuele
+- Luca
 
 ## Regolamento corrente
 [REGOLAMENTO](./Regolamento.md)
