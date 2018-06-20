@@ -8,7 +8,7 @@
 
 4. Ad ogni mozione, tutti i giocatori devono esprimere un voto favorevole o contrario alla mozione stessa. Ogni giocatore vota una sola volta ed ogni voto ha lo stesso valore.
 
-5. Se più della metà dei giocatori approva la mozione, la regola viene aggiunta con un nuovo numero al regolamento, oppure con il medesimo numero se è stata modificata, oppure eliminata (a seconda del tipo di mozione).
+5. Se più della metà dei voti è favorevole alla mozione, la regola viene aggiunta con un nuovo numero al regolamento, oppure con il medesimo numero se è stata modificata, oppure eliminata (a seconda del tipo di mozione).
 
 6. Il vincitore è il giocatore che vende la principessa.
 
