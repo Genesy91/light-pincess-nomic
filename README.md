@@ -9,7 +9,7 @@
 - Du
 
 ## Regolamento corrente
-[REGOLAMENTO](./Regolamento)
+[REGOLAMENTO](./Regolamento.md)
 
 ## Regole iniziali
 
