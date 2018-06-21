@@ -10,8 +10,8 @@
 
 5. Se più della metà dei voti è favorevole alla mozione, la regola viene aggiunta con un nuovo numero al regolamento, oppure con il medesimo numero se è stata modificata, oppure eliminata (a seconda del tipo di mozione).
 
-6. Il vincitore è il giocatore che vende la principessa.
+6. Il vincitore è il giocatore che compra la principessa.
 
-7.  La principessa non può essere venduta prima dell'inizio del quinto giro.
+7. La principessa non può essere venduta prima dell'inizio del quinto giro.
 
 8. Quando un giocatore dà un voto favorevole per tre volte di fila, il suo voto vale doppio alla successiva mozione, in caso di parità vince la parte di suddetto giocatore.
