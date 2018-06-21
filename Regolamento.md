@@ -15,3 +15,5 @@
 7. La principessa non può essere venduta prima dell'inizio del quinto giro.
 
 8. Quando un giocatore dà un voto favorevole per tre volte di fila, il suo voto vale doppio alla successiva mozione, in caso di parità vince la parte di suddetto giocatore.
+
+9. Solo il Re può comprare la principessa. Ci può essere solo un Re alla volta. Ogni giocatore può diventare Re e mentre lo è gli altri giocatori devono chiamarlo "sua maestà".
