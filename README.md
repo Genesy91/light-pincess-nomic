@@ -9,7 +9,7 @@
 - Luca
 
 ## Re corrente
-Luca
+Andrea
 
 ## Regolamento corrente
 [REGOLAMENTO](./Regolamento.md)
