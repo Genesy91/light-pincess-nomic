@@ -21,3 +21,5 @@
 10. Il giocatore che riceve voto unanime favorevole ad una propria mozione diventa re, il re predecessore perde il titolo. Un re che riceve voto unanime contrario ad una propria mozione perde il titolo. Il re ha il potere di mandare bacini al popolo.
 
 11. Un giocatore può utilizzare il suo turno per accettare i bacini del re. Dopo che un re ha mandato i bacini al popolo questi rimangono accettabili fino al momento in cui un giocatore non li ha accettati, dopodichè non sono più accettabili dai giocatori successivi.
+
+12. Il costo della principessa è in bacini, viene deciso dal venditore ma deve essere almeno di 5 bacini.
