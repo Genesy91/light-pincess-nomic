@@ -8,6 +8,9 @@
 - Emanuele
 - Luca
 
+## Re corrente
+Luca
+
 ## Regolamento corrente
 [REGOLAMENTO](./Regolamento.md)
 
