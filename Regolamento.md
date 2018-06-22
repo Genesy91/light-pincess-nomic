@@ -14,8 +14,10 @@
 
 7. La principessa non può essere venduta prima dell'inizio del quinto giro.
 
-8. Quando un giocatore dà un voto favorevole per tre volte di fila, il suo voto vale doppio alla successiva mozione, in caso di parità vince la parte di suddetto giocatore.
+8. Quando un giocatore dà un voto favorevole o contrario per tre volte di fila, il suo voto vale doppio alla successiva mozione, in caso di parità è il voto del re a determinare il risultato.
 
 9. Solo il Re può comprare la principessa. Ci può essere solo un Re alla volta. Ogni giocatore può diventare Re e mentre lo è gli altri giocatori devono chiamarlo "sua maestà".
 
 10. Il giocatore che riceve voto unanime favorevole ad una propria mozione diventa re, il re predecessore perde il titolo. Un re che riceve voto unanime contrario ad una propria mozione perde il titolo. Il re ha il potere di mandare bacini al popolo.
+
+11. Un giocatore può utilizzare il suo turno per accettare i bacini del re. Dopo che un re ha mandato i bacini al popolo questi rimangono accettabili fino al momento in cui un giocatore non li ha accettati, dopodichè non sono più accettabili dai giocatori successivi.
