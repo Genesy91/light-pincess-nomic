@@ -1,4 +1,4 @@
-# Light Pincess Nomic
+# Light Princess Nomic
 
 ## Giocatori
 
