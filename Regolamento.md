@@ -23,3 +23,5 @@
 11. Un giocatore può utilizzare il suo turno per accettare i bacini del re. Dopo che un re ha mandato i bacini al popolo questi rimangono accettabili fino al momento in cui un giocatore non li ha accettati, dopodichè non sono più accettabili dai giocatori successivi.
 
 12. Il costo della principessa è in bacini, viene deciso dal venditore ma deve essere almeno di 5 bacini.
+
+13. Il drago nasone arriva all'inizio del sesto giro.
