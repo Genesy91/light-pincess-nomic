@@ -8,9 +8,9 @@
 - Emanuele 3
 - Luca
 
-### Giro: 3
+### Giro: 4
 
-### Re corrente: Davide
+### Re corrente: Luca
 
 ### Bacini disponibili: 0
 
