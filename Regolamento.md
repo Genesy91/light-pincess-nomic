@@ -25,3 +25,5 @@
 12. Il costo della principessa è in bacini, viene deciso dal venditore ma deve essere almeno di 5 bacini.
 
 13. Il drago nasone arriva all'inizio del sesto giro.
+
+14. Le regole con numero 8 o multipli di 8 non hanno valore. Le regole con numeri dispari e maggiori di 14 non possono contenere le seguenti parole (e i relativi plurali): "giocatore", "principessa", "drago".

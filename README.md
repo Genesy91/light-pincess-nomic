@@ -1,6 +1,6 @@
 # Light Princess Nomic
 
-## Giocatori
+## Giocatori e numero di bacini
 
 - Andrea
 - Davide
@@ -8,8 +8,9 @@
 - Emanuele
 - Luca
 
-## Re corrente
-Andrea
+### Re corrente: Davide
+
+### Bacini disponibili: 3
 
 ## Regolamento corrente
 [REGOLAMENTO](./Regolamento.md)
