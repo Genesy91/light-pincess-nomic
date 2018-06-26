@@ -5,7 +5,7 @@
 - Andrea
 - Davide
 - Du
-- Emanuele
+- Emanuele 3
 - Luca
 
 ### Re corrente: Davide
