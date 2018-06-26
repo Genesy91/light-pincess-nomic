@@ -8,9 +8,11 @@
 - Emanuele 3
 - Luca
 
+### Giro: 3
+
 ### Re corrente: Davide
 
-### Bacini disponibili: 3
+### Bacini disponibili: 0
 
 ## Regolamento corrente
 [REGOLAMENTO](./Regolamento.md)
